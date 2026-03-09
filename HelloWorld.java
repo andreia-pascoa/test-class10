@@ -4,6 +4,7 @@ public class HelloWorld {
 
 		System.out.println("Hello!");
 		System.out.println("Class 10!");
+		System.out.println("Java is da best!");
 
 
 
