@@ -6,8 +6,10 @@ public class HelloWorld {
 		System.out.println("Class 10!");
 		System.out.println("Java is da best!");
 
-
-
 	}
 
+	public static void presentCode() {
+
+		System.out.println("This is my implementation!");
+	}
 }
